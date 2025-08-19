@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-# GistHub
+# Awesome Hub
 
 🙋‍♀️ **A short introduction**  
-Welcome to GistHub! We're a collaborative platform where you can store, share, and discover awesome lists, package repositories, and gists. Whether you're a developer looking for code snippets, a creator seeking inspiration, or just someone who loves curated lists, GistHub is the place for you.
+Welcome to Awesome Hub! We're a collaborative platform where you can store, share, and discover awesome lists, package repositories, and gists. Whether you're a developer looking for code snippets, a creator seeking inspiration, or just someone who loves curated lists, Awesome Hub is the place for you.
 
 🌈 **Contribution guidelines**  
 We believe in the power of community. Here's how you can get involved:
